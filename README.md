@@ -1,5 +1,5 @@
 # Single Page CV
-##Proyecto finalizado: [cv.juanazabaleta.com.ar](cv.juanazabaleta.com.ar)
+## Proyecto finalizado: [cv.juanazabaleta.com.ar](cv.juanazabaleta.com.ar)
 ### Este proyecto sigue el roadmap de desarrollo de un currículum en una sola página, ideal para mejorar tus habilidades en diseño web y frontend. A medida que avanzas, puedes integrar tecnologías como HTML, CSS, Bootstrap y más, creando una página profesional que resuma tu experiencia y habilidades.
 
 #### Este proyecto es un desafío propuesto por roadmap.sh, diseñado para ayudarte a desarrollar un currículum en una sola página, mejorando tus habilidades en diseño web y frontend. Para más detalles y seguir el roadmap paso a paso, podés visitar este [enlace](https://roadmap.sh/projects/single-page-cv?fl=0).
